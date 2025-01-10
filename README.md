@@ -66,6 +66,8 @@ This repository contains a powerful **Retrieval-Augmented Generation (RAG)** app
 
 ---
 ## Snapshots
+<img width="1440" alt="Screenshot 2025-01-10 at 8 09 51 PM" src="https://github.com/user-attachments/assets/e7ba61d2-ff14-4139-a7aa-bb072584fd9c" />
+<img width="1440" alt="Screenshot 2025-01-10 at 8 09 59 PM" src="https://github.com/user-attachments/assets/c926fb90-4250-446e-a86c-812ea1802b0f" />
 <img width="1440" alt="SS 1" src="https://github.com/user-attachments/assets/9e3175b9-f3e4-4744-9361-7a9eb03fda23" />
 <img width="1440" alt="Screenshot 2025-01-10 at 8 17 09 PM" src="https://github.com/user-attachments/assets/2b0d00c6-313b-4913-9630-7be4b698866c" />
 <img width="1440" alt="Screenshot 2025-01-10 at 8 17 28 PM" src="https://github.com/user-attachments/assets/cb356115-251a-476f-8af3-add751e2d33a" />
