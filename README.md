@@ -66,15 +66,17 @@ This repository contains a powerful **Retrieval-Augmented Generation (RAG)** app
 
 ---
 ## Snapshots
-![alt text](<SS 1.png>)
-![alt text](<Screenshot 2025-01-10 at 8.17.09 PM.png>)
-![alt text](<Screenshot 2025-01-10 at 8.17.28 PM.png>)
-![alt text](<Screenshot 2025-01-10 at 8.17.56 PM.png>)
-![alt text](<Screenshot 2025-01-10 at 8.18.17 PM.png>)
-![alt text](<Screenshot 2025-01-10 at 8.18.52 PM.png>)
-![alt text](<Screenshot 2025-01-10 at 8.24.26 PM.png>)
-![alt text](<Screenshot 2025-01-10 at 8.24.40 PM.png>)
-![alt text](<Screenshot 2025-01-10 at 8.25.26 PM.png>)    
+<img width="1440" alt="SS 1" src="https://github.com/user-attachments/assets/9e3175b9-f3e4-4744-9361-7a9eb03fda23" />
+<img width="1440" alt="Screenshot 2025-01-10 at 8 17 09 PM" src="https://github.com/user-attachments/assets/2b0d00c6-313b-4913-9630-7be4b698866c" />
+<img width="1440" alt="Screenshot 2025-01-10 at 8 17 28 PM" src="https://github.com/user-attachments/assets/cb356115-251a-476f-8af3-add751e2d33a" />
+<img width="1440" alt="Screenshot 2025-01-10 at 8 17 56 PM" src="https://github.com/user-attachments/assets/785f34c9-292d-4f81-a9b4-91ea1acfe304" />
+<img width="1440" alt="Screenshot 2025-01-10 at 8 18 17 PM" src="https://github.com/user-attachments/assets/1fedcfa9-47c4-4917-bb5f-58b3a4484cef" />
+<img width="1440" alt="Screenshot 2025-01-10 at 8 18 52 PM" src="https://github.com/user-attachments/assets/c4b39abe-2749-4288-ab42-cb122dfacadd" />
+<img width="1440" alt="Screenshot 2025-01-10 at 8 24 26 PM" src="https://github.com/user-attachments/assets/eca63d36-cc00-4d55-9478-5e28a95b372a" />
+<img width="1440" alt="Screenshot 2025-01-10 at 8 24 40 PM" src="https://github.com/user-attachments/assets/7ad4c115-3157-4425-9278-ddc0cb291a53" />
+<img width="1440" alt="Screenshot 2025-01-10 at 8 25 26 PM" src="https://github.com/user-attachments/assets/6c75d762-8e8c-4de0-b32d-a27ea4f291a3" />
+
+
 ---
 ## Installation
 
